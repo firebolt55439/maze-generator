@@ -1,5 +1,6 @@
 # maze-generator
 ![DFS-based maze generation](https://github.com/firebolt55439/maze-generator/blob/master/assets/dfs-maze-generation.gif?raw=true)
+
 ![BFS-based maze solver](https://github.com/firebolt55439/maze-generator/blob/master/assets/bfs-solver-max-14mb.gif?raw=true)
 
 A DFS-based maze generator and solver.
