@@ -8,6 +8,6 @@ A DFS-based maze generator and solver.
 ## Requirements
 * ffmpeg-dev
 * libavutil-dev
-* C++11-compliant compiler
+* C++14-compliant compiler
 
 Tested on macOS 10.13 with latest Homebrew ffmpeg build.
